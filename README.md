@@ -1,6 +1,6 @@
 # MLSA-SIL-Blog-2022
 # Azure Data Explorer + Power Platform Services
-This blog series aims to introduce data analysis in Azure Cloud using Azure Data Explorer and Power platform services with test cases from the field of Green Tech.
+This blog series aims to introduce data analysis of data stored in Azure Cloud using Azure Data Explorer and Power platform services with test cases from the field of Green Tech.
  
 * [Blog 1: Introduction to Azure Cloud Storage](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog1.md) 
 * [Blog 2: Storage of data in Azure Cloud](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog2.md)
