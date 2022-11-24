@@ -29,3 +29,13 @@ Microsoft Azure, often referred to as Azure, is a cloud computing platform opera
 * The ingestion wizard makes the data ingestion process easy, fast, and intuitive. The Azure Data Explorer web UI provides an intuitive and guided experience that helps one ramp-up quickly to start ingesting data, creating database tables, and mapping structures. 
 
 * It offers built-in visualization and dashboarding out of the box, with support for various charts and visualizations. It has native integration with Power BI, native connectors for Grafana, Kibana and Databricks, ODBC support for Tableau, Sisense, Qlik and more. 
+
+With this quick introduction, let's move on to get a hands on experience!
+
+## Prerequisites
+An account on [Azure](https://azure.microsoft.com/en-in/). You can get a free subscription with basic services available.
+
+## What is a cluster?
+In a computer system, a cluster is a group of servers and other resources that act like a single system and enable high availability, load balancing and parallel processing. 
+
+## How to create an Azure Data Explorer cluster?
