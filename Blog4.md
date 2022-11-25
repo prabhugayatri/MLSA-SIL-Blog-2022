@@ -13,6 +13,15 @@ In a computer system, a cluster is a group of servers and other resources that a
 
 *Image credits:https://miro.medium.com/max/922/1*Zn8naq_QcgGyV9IuFHTVdA.png* 
 
+## What is a database?
+In computing, a database is an organized collection of data stored and accessed electronically. It is information that is set up for easy access, management and updating. They are used for storing, maintaining and accessing any sort of data. They collect information on people, places or things. That information is gathered in one place so that it can be observed and analyzed.
+
+![2](https://user-images.githubusercontent.com/58803999/204004515-9f313baa-ca79-4a13-a74c-688280ed3ad5.jpg)
+
+*Image credits:https://s7280.pcdn.co/wp-content/uploads/2016/06/database-blue.png*
+
+With this quick introduction, let's move on to get a hands on experience on the basics KQL queries!
+
 ## Prerequisites
 An account on [Azure](https://azure.microsoft.com/en-in/). You can get a free subscription with basic services available.
 
@@ -46,14 +55,6 @@ An account on [Azure](https://azure.microsoft.com/en-in/). You can get a free su
 ![sil6](https://user-images.githubusercontent.com/58803999/204025465-4a4edb3f-9103-42e8-b752-2f0807983d20.png)
 
 **Step 6:** When the deployment is complete, select **Go to resource**. Retry the operation if the deployment fails.
-
-
-## What is a database?
-In computing, a database is an organized collection of data stored and accessed electronically. It is information that is set up for easy access, management and updating. They are used for storing, maintaining and accessing any sort of data. They collect information on people, places or things. That information is gathered in one place so that it can be observed and analyzed.
-
-![2](https://user-images.githubusercontent.com/58803999/204004515-9f313baa-ca79-4a13-a74c-688280ed3ad5.jpg)
-
-*Image credits:https://s7280.pcdn.co/wp-content/uploads/2016/06/database-blue.png*
 
 ## How to create an Azure Data Explorer database?
 **Step 1:** Let us continue with the creation of a database. On the **Overview** tab, select **Create database**.
