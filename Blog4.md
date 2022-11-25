@@ -21,9 +21,13 @@ An account on [Azure](https://azure.microsoft.com/en-in/). You can get a free su
 
 ## How to create an Azure Data Explorer cluster?
 **Step 1:** Sign in to the [Azure portal](https://azure.microsoft.com/en-in/).
+
 **Step 2:**  Select the **+ Create a resource** button in the upper-left corner of the portal.
+
 **Step 3:** Search for *Azure Data Explorer* and click **Create** under it.
+
 **Step 4:** Fill out the basic cluster details with the following information.
+
 * Select the Azure subscription that you want to use for your cluster.
 * Use an existing resource group or create a new resource group.
 * Choose a unique name that identifies your cluster. The domain name [region].kusto.windows.net is appended to the cluster name you provide. The name can contain only lowercase letters and numbers. It must contain from 4 to 22 characters.
@@ -31,7 +35,9 @@ An account on [Azure](https://azure.microsoft.com/en-in/). You can get a free su
 * Select *Dev/Test* for this quickstart. For a production system, select the specification that best meets your needs.
 *	Select *Dev(No SLA)_Standard_E2a_v4* for this quickstart.
 *	Place the cluster instances in one or more availability zones in the same region (optional). Azure Availability Zones are unique physical locations within the same Azure region. They protect an Azure Data Explorer cluster from loss data. 
+*	
 **Step 5:** Select **Review + create** to review your cluster details, and on the next screen select Create to provision the cluster. Provisioning typically takes about 10 minutes.
+
 **Step 6:** When the deployment is complete, select Go to resource. Retry the operation if the deployment fails.
 
 ## What is a database?
