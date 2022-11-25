@@ -2,6 +2,7 @@
 
 ![Welcome Image credits: Alnafsy](https://user-images.githubusercontent.com/58803999/173579763-bd5ea067-4d35-4f75-89d6-fdd02192d11e.jpeg)
 
+Credit- http://m.alnafsy.com/
 
 This blog will give a brief introduction of Azure Data Explorer followed by Kusto Query Language. Let's get started!
 
@@ -15,6 +16,8 @@ Microsoft Azure, often referred to as Azure, is a cloud computing platform opera
 * It is scalable, secure, robust, and enterprise-ready, and is useful for log analytics, time series analytics, IoT, and general-purpose exploratory analytics.
  
 ![ADX Workflow Image credits: Microsoft Learn](https://user-images.githubusercontent.com/58803999/203703326-cef2894c-aa48-4086-84a1-ee1b137aee8f.png)
+
+Image credits: https://learn.microsoft.com/en-us/azure/data-explorer/media/data-explorer-overview/workflow.png
 
 ## What are the advantages of Azure Data Explorer? 
 
@@ -56,5 +59,7 @@ Hop on to [Jupyter notebooks for a quick KQL tutorial]()
 [Introduction to KQL and its relevance](https://www.youtube.com/watch?v=Uj2J55bs_xs)
 
 ![Thank You Image credits: Pixaby](https://cdn.pixabay.com/photo/2014/07/15/19/55/thank-you-394180_1280.png)
+
+Credits- https://cdn.pixabay.com/photo/2014/07/15/19/55/thank-you-394180_1280.png
 
 ## [Blog 4: Create an Azure Data Explorer cluster and database](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog4.md)
