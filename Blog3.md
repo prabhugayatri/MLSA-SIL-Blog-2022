@@ -55,6 +55,6 @@ Hop on to [Jupyter notebooks for a quick KQL tutorial]()
 
 [Introduction to KQL and its relevance](https://www.youtube.com/watch?v=Uj2J55bs_xs)
 
-## [Blog 4: Create an Azure Data Explorer cluster and database](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog4.md)
-
 ![Thank You Image credits: Pixaby](https://cdn.pixabay.com/photo/2014/07/15/19/55/thank-you-394180_1280.png)
+
+## [Blog 4: Create an Azure Data Explorer cluster and database](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog4.md)
