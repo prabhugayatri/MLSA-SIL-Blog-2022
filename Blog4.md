@@ -18,18 +18,16 @@ An account on [Azure](https://azure.microsoft.com/en-in/). You can get a free su
 
 ## How to create an Azure Data Explorer cluster?
 **Step 1:** Sign in to the [Azure portal](https://azure.microsoft.com/en-in/).
-
-**Step 2:**  Select the **+ Create a resource** button in the upper-left corner of the portal.
 ![sil1](https://user-images.githubusercontent.com/58803999/204025389-16716bfe-811f-420f-9f98-02278340dae7.png)
 
-
-**Step 3:** Search for *Azure Data Explorer* and click **Create** under it.
+**Step 2:**  Select the **+ Create a resource** button in the upper-left corner of the portal.
 ![sil3](https://user-images.githubusercontent.com/58803999/204025408-e75e9bcf-bfad-48e4-b5b3-44367017c060.png)
 
-
-**Step 4:** Fill out the basic cluster details with the following information.
+**Step 3:** Search for *Azure Data Explorer* and click **Create** under it.
 ![sil4](https://user-images.githubusercontent.com/58803999/204025430-526f99ae-196f-4a07-b47a-b541c8d63918.png)
 
+**Step 4:** Fill out the basic cluster details with the following information.
+![sil5](https://user-images.githubusercontent.com/58803999/204025446-5dea6533-08e3-4a3d-94db-a46ccfb7bc8f.png)
 
 * Select the Azure subscription that you want to use for your cluster.
 * Use an existing resource group or create a new resource group.
@@ -40,11 +38,9 @@ An account on [Azure](https://azure.microsoft.com/en-in/). You can get a free su
 *	Place the cluster instances in one or more availability zones in the same region (optional). Azure Availability Zones are unique physical locations within the same Azure region. They protect an Azure Data Explorer cluster from loss data. 
 *	
 **Step 5:** Select **Review + create** to review your cluster details, and on the next screen select Create to provision the cluster. Provisioning typically takes about 10 minutes.
-![sil5](https://user-images.githubusercontent.com/58803999/204025446-5dea6533-08e3-4a3d-94db-a46ccfb7bc8f.png)
-
+![sil6](https://user-images.githubusercontent.com/58803999/204025465-4a4edb3f-9103-42e8-b752-2f0807983d20.png)
 
 **Step 6:** When the deployment is complete, select Go to resource. Retry the operation if the deployment fails.
-![sil6](https://user-images.githubusercontent.com/58803999/204025465-4a4edb3f-9103-42e8-b752-2f0807983d20.png)
 
 
 ## What is a database?
