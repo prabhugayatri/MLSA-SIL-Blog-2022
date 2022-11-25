@@ -56,7 +56,7 @@ In computing, a database is an organized collection of data stored and accessed 
 *Image credits:https://s7280.pcdn.co/wp-content/uploads/2016/06/database-blue.png*
 
 ## How to create an Azure Data Explorer database?
-**Step 1:** On the **Overview** tab, select **Create database**.
+**Step 1:** Let us continue with the creation of a database. On the **Overview** tab, select **Create database**.
 
 ![sil7](https://user-images.githubusercontent.com/58803999/204025512-1f56db33-a999-427d-9304-b770861927e8.png)
 
