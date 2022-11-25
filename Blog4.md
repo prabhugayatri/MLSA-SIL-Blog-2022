@@ -77,9 +77,18 @@ In computing, a database is an organized collection of data stored and accessed 
 
 **Step 4:** Under your cluster, select Query. Paste the command .show databases into the query window, then select Run.
 
+![sil11](https://user-images.githubusercontent.com/58803999/204026606-da8e2638-ec93-4239-96f5-67754fe8a665.png)
+
 
 **Step 5:** After you are done using the cluster, select Resource groups on the far left in the Azure portal, and then select the resource group that contains your Data Explorer cluster. Select Delete resource group to delete the entire resource group. If using an existing resource group, you can choose to only delete the Data Explorer cluster.
 
+# Summary
+**Congratulations!** You are now acquainted with teh basics of Axure Data Explorer and KQL and can proceed to learn more in this area. Do leave your feedback in the comments below. Our next blog will on how to [visualize data with Azure Data Explorer dashboards](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog5.md). Stay tuned!
+
+## Next Steps
+[Summary of Azure Data Explorer](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-data-explorer/)
+
+[Training in KQL](https://learn.microsoft.com/en-us/training/modules/write-first-query-kusto-query-language/)
 
 ![Thank You](https://cdn.pixabay.com/photo/2014/07/15/19/55/thank-you-394180_1280.png)
 
