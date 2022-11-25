@@ -4,7 +4,7 @@
 
 *Image credits: http://m.alnafsy.com/*
 
-This blog will give a brief introduction of Azure Data Explorer followed by Kusto Query Language. Let's get started!
+In the previous [blog](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog2.md), we learnt about the storage of data in Azure cloud. This blog will give a brief introduction of Azure Data Explorer followed by Kusto Query Language. Let's get started!
 
 ## What is Azure? 
 Microsoft Azure, often referred to as Azure, is a cloud computing platform operated by Microsoft for application management via Microsoft-managed data centers. It provides a broad range of cloud services, including compute, analytics, storage and networking. 
