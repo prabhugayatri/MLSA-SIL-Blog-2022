@@ -45,7 +45,7 @@ An account on [Azure](https://azure.microsoft.com/en-in/). You can get a free su
 
 ![sil6](https://user-images.githubusercontent.com/58803999/204025465-4a4edb3f-9103-42e8-b752-2f0807983d20.png)
 
-**Step 6:** When the deployment is complete, select Go to resource. Retry the operation if the deployment fails.
+**Step 6:** When the deployment is complete, select **Go to resource**. Retry the operation if the deployment fails.
 
 
 ## What is a database?
@@ -94,4 +94,4 @@ In computing, a database is an organized collection of data stored and accessed 
 
 *Image credits: https://cdn.pixabay.com/photo/2014/07/15/19/55/thank-you-394180_1280.png*
 
-## [Blog 5: Visualizing data with Azure Data Explorer dashboards](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog5.md)![Uploading sil7.png…]()
+## [Blog 5: Visualizing data with Azure Data Explorer dashboards](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog5.md)
