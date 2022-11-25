@@ -4,7 +4,7 @@
 
 *Image credits: http://m.alnafsy.com/*
 
-This blog will guide you on how to create an Azure Data Explorer cluster and database. Let's get started!
+In the previous [blog](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog3.md), we were introduced to Azure Data Explorer and Kusto Query Language. This blog will guide you on how to create an Azure Data Explorer cluster and database. Let's get started!
 
 ## What is a cluster?
 In a computer system, a cluster is a group of servers and other resources that act like a single system and enable high availability, load balancing and parallel processing. In this blog, we will first learn to create an Azure Data Explorer cluster with a defined set of compute and storage resources in an Azure resource group.
