@@ -53,7 +53,7 @@ Hop on to [Jupyter notebooks for a quick KQL tutorial]()
 ## Next Steps
 [More info on overview of Azure Data Explorer](https://www.youtube.com/watch?v=D_AJk2lAepw&feature=youtu.be)
 
-[Introduction to KQL and its relevance][(https://docs.microsoft.com/en-us/graph/api/insights-list-used/](https://www.youtube.com/watch?v=Uj2J55bs_xs))
+[Introduction to KQL and its relevance](https://www.youtube.com/watch?v=Uj2J55bs_xs)
 
 ## [Blog 4: Create an Azure Data Explorer cluster and database](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog4.md)
 
