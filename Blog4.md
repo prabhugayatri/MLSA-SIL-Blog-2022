@@ -20,7 +20,7 @@ In computing, a database is an organized collection of data stored and accessed 
 
 *Image credits:https://s7280.pcdn.co/wp-content/uploads/2016/06/database-blue.png*
 
-With this quick introduction, let's move on to get a hands on experience with creating an Azure Data Explorer clusetr and queries!
+With this quick introduction, let's move on to get a hands on experience with creating an Azure Data Explorer clusetr and database!
 
 ## Prerequisites
 An account on [Azure](https://azure.microsoft.com/en-in/). You can get a free subscription with basic services available.
