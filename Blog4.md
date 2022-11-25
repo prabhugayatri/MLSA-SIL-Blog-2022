@@ -41,7 +41,7 @@ An account on [Azure](https://azure.microsoft.com/en-in/). You can get a free su
 *	Select *Dev(No SLA)_Standard_E2a_v4* for this quickstart.
 *	Place the cluster instances in one or more availability zones in the same region (optional). Azure Availability Zones are unique physical locations within the same Azure region. They protect an Azure Data Explorer cluster from loss data. 
 
-**Step 5:** Select **Review + create** to review your cluster details, and on the next screen select Create to provision the cluster. Provisioning typically takes about 10 minutes.
+**Step 5:** Select **Review + create** to review your cluster details, and on the next screen select **Create** to provision the cluster. Provisioning typically takes about 10 minutes.
 
 ![sil6](https://user-images.githubusercontent.com/58803999/204025465-4a4edb3f-9103-42e8-b752-2f0807983d20.png)
 
