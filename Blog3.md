@@ -1,6 +1,6 @@
 # Introduction to Azure Data Explorer and Kusto Query Language
 
-![Image by Alnafsy](https://user-images.githubusercontent.com/58803999/173579763-bd5ea067-4d35-4f75-89d6-fdd02192d11e.jpeg)
+![Welcome Image credits: Alnafsy](https://user-images.githubusercontent.com/58803999/173579763-bd5ea067-4d35-4f75-89d6-fdd02192d11e.jpeg)
 
 
 This blog will give a brief introduction of Azure Data Explorer followed by Kusto Query Language. Let's get started!
@@ -14,7 +14,7 @@ Microsoft Azure, often referred to as Azure, is a cloud computing platform opera
 * It can use Machine Learning to extract key insights, spot patterns and trends and create forecasting models.  
 * It is scalable, secure, robust, and enterprise-ready, and is useful for log analytics, time series analytics, IoT, and general-purpose exploratory analytics.
  
-![Image by Microsoft Learn](https://user-images.githubusercontent.com/58803999/203703326-cef2894c-aa48-4086-84a1-ee1b137aee8f.png)
+![ADX Workflow Image credits: Microsoft Learn](https://user-images.githubusercontent.com/58803999/203703326-cef2894c-aa48-4086-84a1-ee1b137aee8f.png)
 
 ## What are the advantages of Azure Data Explorer? 
 
@@ -30,12 +30,31 @@ Microsoft Azure, often referred to as Azure, is a cloud computing platform opera
 
 * It offers built-in visualization and dashboarding out of the box, with support for various charts and visualizations. It has native integration with Power BI, native connectors for Grafana, Kibana and Databricks, ODBC support for Tableau, Sisense, Qlik and more. 
 
-With this quick introduction, let's move on to get a hands on experience!
+## What is Kusto Query Language?
+* Kusto Query Language is a powerful tool to explore data and discover patterns, identify anomalies and outliers, create statistical modeling, and more. 
+* The query uses schema entities that are organized in a hierarchy similar to SQL's: databases, tables, and columns.
+* KQL is case-sensitive for everything – table names, table column names, operators, functions, and so on.
+
+## What are the advantages of KQL?
+* The Azure Portal allows an interface to manage clusters and execute queries, but KQL queries can also be integrated into reporting tools, such as Power BI and Tableau.
+* KQL is a read-only query language, so there is no risk of data corruption through injection attacks. ADX is capable of quickly returning results from very large data sets.
+
+With this quick introduction, let's move on to get a hands on experience on the basics KQL queries!
 
 ## Prerequisites
-An account on [Azure](https://azure.microsoft.com/en-in/). You can get a free subscription with basic services available.
+None.
 
-## What is a cluster?
-In a computer system, a cluster is a group of servers and other resources that act like a single system and enable high availability, load balancing and parallel processing. 
+## What are the basic KQL queries?
+Hop on to [Jupyter notebooks for a quick KQL tutorial]()
 
-## How to create an Azure Data Explorer cluster?
+## Summary
+**Congratulations!** You are now acquainted with teh basics of Axure Data Explorer and KQL and can proceed to learn more in this area. Do leave your feedback in the comments below. Our next blog will on how to [create an Azure Data Explorer cluster and database](https://github.com/viviana2419/Dev.To-blog-series-/blob/main/Blog4.md). Stay tuned!
+
+## Next Steps
+[More info on overview of Azure Data Explorer](https://www.youtube.com/watch?v=D_AJk2lAepw&feature=youtu.be)
+
+[Introduction to KQL and its relevance][(https://docs.microsoft.com/en-us/graph/api/insights-list-used/](https://www.youtube.com/watch?v=Uj2J55bs_xs))
+
+## [Blog 4: Create an Azure Data Explorer cluster and database](https://github.com/viviana2419/Dev.To-blog-series-/blob/main/Blog4.md)
+
+![Thank You Image credits: Pixaby](https://cdn.pixabay.com/photo/2014/07/15/19/55/thank-you-394180_1280.png)
