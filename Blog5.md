@@ -97,4 +97,10 @@ Add tile uses Kusto Query Language(KQL) snippets to retrieve the data and render
     *Image credits: https://learn.microsoft.com/en-us/azure/data-explorer/media/adx-dashboards/save-dashboard.png*
 
 ## Summary
-Congratulations! You are now acquainted with the basics of Azure Data Explorer dashboard and can proceed to learn more in this area. Do leave your feedback in the comments below. Our next blog will on Introduction to Power BI. Stay tuned!
+Congratulations! You are now acquainted with the basics of Azure Data Explorer dashboard and can proceed to learn more in this area. Do leave your feedback in the comments below. Our next blog will on [Introduction to Power BI](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog6.md). Stay tuned!
+
+![Thank you](https://github.com/AbhishekMankame/MLSA-SIL-Blog-2022/blob/main/images/thank_you.png)
+
+*Image credits: https://cdn.pixabay.com/photo/2014/07/15/19/55/thank-you-394180_1280.png*
+
+## [Blog 6: Introduction to Power BI](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog6.md)
