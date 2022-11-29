@@ -46,24 +46,51 @@ The Azure Storage platform is Microsoft's cloud storage solution for modern data
 ## Azure Blob Storage: 
 Blob storage is optimized for storing Binary file work with unstructured files.
 Designed for storage of files of any kind ( BLOB - Binary Large OBject)
-
-#### Usages:
-   a) It serves images or documents directly to a browser.
-   b) It stores files for distributed access.
-   c) Can stream videos and audio
-   d) Stores data for backup, restore & archiving.
-
+ #### Usages:
+    a) It serves images or documents directly to a browser
+    b) It stores files for distributed access
+    c) Can stream videos and audio
+    d) Stores data for backup, restore & archiving
 #### Three storage tiers
 **Hot**: frequently accessed data
+
 **Cool**: infrequently accessed data( lower availability, high durability)
+
 **Archive**: rarely accessed data
 
 ## Azure Queue Storage
 In common coding languages, Queue is a data structure used to store data which follows the First in-First out rule. Similar concept is used in Azure Queue which is used to store messages in a queue.
 
 #### Usages:
-   a) Helps in the assured delivery of system messages between and within applications.
-   b) Can be used to offload background and non-interactive workloads that ultimately help with    c) Scaling applications and in managing sudden traffic bursts.
+    a) Helps in the assured delivery of system messages between and within applications.
+    b) Can be used to offload background and non-interactive workloads that ultimately help
+   with Scaling applications and in managing sudden traffic bursts.
+   
+## Azure Table Storage
+Azure Storage can store tables without any foreign keys or any other kind of relation. These tables are highly scalable and ideal for handling large amounts of data. 
+#### Three main parts of service are:
+    a) Table
+    b) Entities
+    c) Properties
+   
+   For example: If Student is an entity, its properties are name, roll no etc.
+
+## Azure File Storage
+Azure File storage mainly can be used if we want to have a shared drive between two servers or across users. In that case, we will go for Azure file storage. For this we need to have an Azure Storage Account (Discussed later in the blog).
+#### Some of the concepts related to Azure file storage are:
+    a) Storage Account
+    b) Share
+    c) Directory
+    d) File
+    e) URL Format
+
+## Azure Disk Storage
+It is only shared cloud block storage that supports both Windows and Linux. 
+#### There are two types of Azure Disk: 
+    a) Managed Disk
+    b) Unmanaged Disks
+
+
 
 
 
