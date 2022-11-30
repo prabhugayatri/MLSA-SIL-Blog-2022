@@ -1,3 +1,26 @@
+This blog series aims to introduce data analysis of data stored in Azure Cloud using Azure Data Explorer and Power platform services with test case from the field of Green Tech. The blog series aim to empower readers to build solutions easily with practical training to guide on each step.
+
+Our project team consisted of the following Ambassadors Sachin Mittal, Abhishek Mankame, Vinayak Gavaria and me, Gayatri Prabhu
+
+* [Blog 1: Introduction to Azure Cloud Storage](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog1.md) 
+* [Blog 2: Storage of data in Azure Cloud](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog2.md)
+* [Blog 3: Introduction to Azure Data Explorer and Kusto Query Language](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog3.md)
+* [Blog 4: Create an Azure Data Explorer cluster and database](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog4.md)
+* [Blog 5: Visualizing data with Azure Data Explorer dashboards](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog5.md)
+* [Blog 6: Introduction to Power BI](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog6.md)
+* [Blog 7: Using the Azure Data Explorer connector in Power BI](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog7.md)
+* [Blog 8: Creating a Power BI Report](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog8.md)
+
+# Prerequisite:
+To learn and build with Azure and Power Platform, there are no prerequisite required. We will start from the very basics and learn about this technology in details and will also define its pros and cons. Dive right in and you will learn to swim!
+
+# Expected Outcomes
+After learning this track, you will be able to
+* Under Azure storage, data lake explorer to store data
+* Conduct data analysis to process the stored data
+* Visualize the data with Azure Explorer dashboards
+* Analyze, visualize data and make decisions using analyzed data with the help of Power BI.
+
 # Introduction to Azure Cloud Storage
 
 ![Welcome Image credits: Alnafsy](https://user-images.githubusercontent.com/58803999/173579763-bd5ea067-4d35-4f75-89d6-fdd02192d11e.jpeg)
