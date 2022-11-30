@@ -117,7 +117,31 @@ It is only shared cloud block storage that supports both Windows and Linux.
     a) Managed Disk
     b) Unmanaged Disks
 
+## How to create Azure Storage Account
+**Step 1:** Search for the "Storage Account" option on Azure Portal. Click on that option.
+![Screenshot (37)](https://user-images.githubusercontent.com/82721772/204853798-ce35745e-94b6-41f0-96b4-fae9acd61c0a.png)
 
+**Step 2:** Click on "+ Create" on top left.
+![Screenshot (39)](https://user-images.githubusercontent.com/82721772/204854454-5531b460-8c3e-401b-ba70-cc3f0f637f04.png)
+
+**Step 3:** On "Create a storage account" tab; 
+Subsciption is selected by default
+
+"Create new" Resource group
+
+Storage account name - Give any valid name you want
+
+Select Region, Performance & Redundancy accordingly
+
+Then click on "Next"
+
+![Screenshot (41)](https://user-images.githubusercontent.com/82721772/204855670-5758a5bd-3b4e-4d2e-993c-0c8513a1336f.png)
+
+**Step 4:** Click on "Next:.."
+
+**Step 5:** CLick on "Create" after review
+
+**Step 6:** At Last, It will show "Your deployment is complete"
 
 
 
