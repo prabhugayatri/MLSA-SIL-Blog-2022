@@ -43,6 +43,10 @@ The Azure Storage platform is Microsoft's cloud storage solution for modern data
     a) Requires data science expertise
     b) Specialized tools
 
+![1-07-1024x666](https://user-images.githubusercontent.com/82721772/204833387-5d972788-438f-4d28-bb68-06ec97a88d56.png)
+
+*Image credits: https://www.msp360.com/*
+
 ## Azure Blob Storage: 
 Blob storage is optimized for storing Binary file work with unstructured files.
 Designed for storage of files of any kind ( BLOB - Binary Large OBject)
