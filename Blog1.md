@@ -39,6 +39,7 @@ The Azure Storage platform is Microsoft's cloud storage solution for modern data
 
 
 ## Types of Data
+
 1. **Structured Data**: Data which has been predefined to set structure before it is placed in data storage. That means, Data is laid out so nicely that it can be defined using a scheme.
  #### Pros of structured data:
       a) Easily used by machine learning algorithms
@@ -70,7 +71,7 @@ The Azure Storage platform is Microsoft's cloud storage solution for modern data
 
 *Image credits: https://www.msp360.com/*
 
-## Azure Blob Storage: 
+## Azure Blob Storage
 Blob storage is optimized for storing Binary file work with unstructured files.
 Designed for storage of files of any kind ( BLOB - Binary Large OBject)
  #### Usages:
