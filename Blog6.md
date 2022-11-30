@@ -6,8 +6,6 @@
 
 In the previous [blog](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog5.md), we learnt about data Visualization using Azure Data Explorer dashboards. This blog will introduce about [Power BI](https://powerbi.microsoft.com/). Let's get started!
 
-In the previous [blog](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog5.md), we learnt about data Visualization using Azure Data Explorer dashboards. This blog will introduce about [Power BI](https://powerbi.microsoft.com/). Let's get started!
-
 ## What is Power BI?
 Power BI is a unified, scalable platform for self-service and enterprise business intelligence (BI). Connect to and visualize any data, and seamlessly infuse the visuals into the apps you use every day.
 It is an interactive data visualization software product developed by Microsoft with a primary focus on business intelligence. It is part of the Microsoft Power Platform. Power BI lets us easily connect to our data sources, clean, and model our data without affecting the underlying source, visualize what is important, and share that with anyone we want.
