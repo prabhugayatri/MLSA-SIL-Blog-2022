@@ -8,7 +8,7 @@ In the previous [blog](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/
 
 ## Next Steps
 
-[More about Power BI](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-data-explorer/](https://powerbi.microsoft.com/en-au/)
+[More about Power BI](https://powerbi.microsoft.com/en-au/)
 
 ![Thank You](https://cdn.pixabay.com/photo/2014/07/15/19/55/thank-you-394180_1280.png)
 
