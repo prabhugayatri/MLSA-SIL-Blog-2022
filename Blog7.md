@@ -17,25 +17,32 @@ Azure Data Explorer provides three options for connecting to data in Power BI:
 An account that is a member of [Azure Active Directory](https://dataexplorer.azure.com/clusters/help/databases/samples) and [Power BI Desktop] that you can download for free.
 
 ## How to use the Azure Data Explorer connector in Power BI?
+
 ** Step 1:** Connect to the Azure Data Explorer help cluster, then you bring in a subset of your data.
+
 ** Step 2:** In the Power BI Desktop, on the **Home tab**, select **Get Data** then **More**.
+ 
 ** Step 3:** Search for Azure Data Explorer, select ** Azure Data Explorer** then **Connect**.
+
 ** Step 4:** On the Azure Data Explorer (Kusto) screen, fill out the form with the following information.
 
 ** Step 5:** If you don't already have a connection to the help cluster, sign in. Sign in with an organizational account, then select **Connect**.
+
 ** Step 6:** On the Navigator screen, select your database then **Transform Data**.
-** Step 6:** The table opens in Power Query Editor, where you can edit rows and columns before importing the data.
+
+** Step 7:** The table opens in Power Query Editor, where you can edit rows and columns before importing the data.
 
 # Summary
 **Congratulations!** You are now acquainted with using Axure Data Explorer in Power BI and can proceed to learn more in this area. Do leave your feedback in the comments below. Our next blog will on how to [create a Power BI report](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog8.md). Stay tuned!
 
 ## Next Steps
-[Summary of Azure Data Explorer](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-data-explorer/)
 
-[Training in KQL](https://learn.microsoft.com/en-us/training/modules/write-first-query-kusto-query-language/)
+[Power BI Basics](https://learn.microsoft.com/en-us/training/modules/write-first-query-kusto-query-language/](https://learn.microsoft.com/en-us/power-bi/fundamentals/service-basic-concepts)
+
+[More about Power BI](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-data-explorer/](https://powerbi.microsoft.com/en-au/)
 
 ![Thank You](https://cdn.pixabay.com/photo/2014/07/15/19/55/thank-you-394180_1280.png)
 
 *Image credits: https://cdn.pixabay.com/photo/2014/07/15/19/55/thank-you-394180_1280.png*
 
-## [Blog 5: Visualizing data with Azure Data Explorer dashboards](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog5.md)
+## [Blog 8: Creating a Power BI report](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog8.md)
