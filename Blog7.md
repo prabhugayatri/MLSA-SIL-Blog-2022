@@ -39,8 +39,6 @@ An account that is a member of [Azure Active Directory](https://dataexplorer.azu
 
 [Power BI Basics](https://learn.microsoft.com/en-us/training/modules/write-first-query-kusto-query-language/](https://learn.microsoft.com/en-us/power-bi/fundamentals/service-basic-concepts)
 
-[More about Power BI](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-data-explorer/](https://powerbi.microsoft.com/en-au/)
-
 ![Thank You](https://cdn.pixabay.com/photo/2014/07/15/19/55/thank-you-394180_1280.png)
 
 *Image credits: https://cdn.pixabay.com/photo/2014/07/15/19/55/thank-you-394180_1280.png*
