@@ -26,7 +26,7 @@ Storage systems are typically scalable to suit an individual’s or organization
     c) Data security & privacy
     d) Costs
     
-## Types of Azure Storgae
+## Types of Azure Storage
 
 | Category | Block Storage | Object Storage | File Storage |
 | ------------- | ------------- | ------------- | ------------- |
@@ -44,3 +44,22 @@ Azure file storage mainly can be used if we want to have a shared drive between 
 ![azure-file-storage-service](https://user-images.githubusercontent.com/82721772/204829603-e26df639-49db-43fd-b091-7815c159893b.png)
 
 *Image credits: https://www.javatpoint.com/*
+
+## How to use Azure Storage
+**Step 1:** Make a Container for storage account.
+
+![Screenshot (43)](https://user-images.githubusercontent.com/82721772/204981421-66828679-3766-4dcc-a827-1565116c5346.png)
+
+**Step 2:** Click on " + container " and give it a name you want.
+
+![Screenshot (45)](https://user-images.githubusercontent.com/82721772/204981692-f1ba0060-edc6-453f-93a9-839b3d51b046.png)
+
+**Step 3:** Click on "Create", given in right bottom.
+
+**Step 4:** Click the container name & then click on "upload" to upload files.
+
+![Screenshot (48)](https://user-images.githubusercontent.com/82721772/204982613-21e6d716-b5d2-4940-8fab-4a32d55e8eaa.png)
+
+![Screenshot (49)](https://user-images.githubusercontent.com/82721772/204982622-0859bef7-43cc-42df-b9d8-2d6ecced6248.png)
+
+You have successfully uploaded files in container of your storage account.
