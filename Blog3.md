@@ -1,8 +1,8 @@
 # Introduction to Azure Data Explorer and Kusto Query Language
 
-![Welcome Image credits: Alnafsy](https://user-images.githubusercontent.com/58803999/173579763-bd5ea067-4d35-4f75-89d6-fdd02192d11e.jpeg)
+![Welcome Image credits: CC](https://user-images.githubusercontent.com/58803999/204959575-c0012acb-ff67-4d67-b43f-c1be859f0f77.jpg)
 
-*Image credits: http://m.alnafsy.com/*
+*Image credits: https://storage.needpix.com/rsynced_images/welcome-milkshake-text-title.jpg*
 
 In the previous [blog](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog2.md), we learnt about the storage of data in Azure cloud. This blog will give a brief introduction of Azure Data Explorer followed by Kusto Query Language. Let's get started!
 
