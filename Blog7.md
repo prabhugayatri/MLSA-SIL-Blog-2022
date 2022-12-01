@@ -36,8 +36,8 @@ An account that is a member of [Azure Active Directory](https://dataexplorer.azu
 **Congratulations!** You are now acquainted with using Axure Data Explorer in Power BI and can proceed to learn more in this area. Do leave your feedback in the comments below. Our next blog will on how to [create a Power BI report](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog8.md). Stay tuned!
 
 ## Next Steps
-
-[Power BI Basics](https://learn.microsoft.com/en-us/power-bi/fundamentals/service-basic-concepts)
+You can explore more in this area, if interested.
+* [Power BI Basics](https://learn.microsoft.com/en-us/power-bi/fundamentals/service-basic-concepts)
 
 ![Thank You](https://cdn.pixabay.com/photo/2014/07/15/19/55/thank-you-394180_1280.png)
 
