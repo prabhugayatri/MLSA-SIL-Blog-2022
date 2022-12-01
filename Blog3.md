@@ -54,9 +54,9 @@ Hop on to [Jupyter notebooks for a quick KQL tutorial]()
 **Congratulations!** You are now acquainted with teh basics of Axure Data Explorer and KQL and can proceed to learn more in this area. Do leave your feedback in the comments below. Our next blog will on how to [create an Azure Data Explorer cluster and database](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog4.md). Stay tuned!
 
 ## Next Steps
-[More info on overview of Azure Data Explorer](https://www.youtube.com/watch?v=D_AJk2lAepw&feature=youtu.be)
-
-[Introduction to KQL and its relevance](https://www.youtube.com/watch?v=Uj2J55bs_xs)
+You can explore more in this area, if interested.
+* [More info on overview of Azure Data Explorer](https://www.youtube.com/watch?v=D_AJk2lAepw&feature=youtu.be)
+* [Introduction to KQL and its relevance](https://www.youtube.com/watch?v=Uj2J55bs_xs)
 
 ![Thank You Image credits: Pixaby](https://cdn.pixabay.com/photo/2014/07/15/19/55/thank-you-394180_1280.png)
 
