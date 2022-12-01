@@ -1,6 +1,6 @@
 This blog series aims to introduce data analysis of data stored in Azure Cloud using Azure Data Explorer and Power platform services with test case from the field of Green Tech. The blog series aim to empower readers to build solutions easily with practical training to guide on each step.
 
-Our project team consisted of the following Ambassadors Sachin Mittal, Abhishek Mankame, Vinayak Gavaria and me, Gayatri Prabhu
+Our project team consisted of the following Ambassadors Sachin Mittal, Abhishek Mankame and me, Gayatri Prabhu
 
 * [Blog 1: Introduction to Azure Cloud Storage](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog1.md) 
 * [Blog 2: Storage of data in Azure Cloud](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog2.md)
