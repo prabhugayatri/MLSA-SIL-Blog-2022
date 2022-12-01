@@ -18,19 +18,19 @@ An account that is a member of [Azure Active Directory](https://dataexplorer.azu
 
 ## How to use the Azure Data Explorer connector in Power BI?
 
-** Step 1:** Connect to the Azure Data Explorer help cluster, then you bring in a subset of your data.
+**Step 1:** Connect to the Azure Data Explorer help cluster, then you bring in a subset of your data.
 
-** Step 2:** In the Power BI Desktop, on the **Home tab**, select **Get Data** then **More**.
+**Step 2:** In the Power BI Desktop, on the **Home tab**, select **Get Data** then **More**.
  
-** Step 3:** Search for Azure Data Explorer, select ** Azure Data Explorer** then **Connect**.
+**Step 3:** Search for Azure Data Explorer, select ** Azure Data Explorer** then **Connect**.
 
-** Step 4:** On the Azure Data Explorer (Kusto) screen, fill out the form with the following information.
+**Step 4:** On the Azure Data Explorer (Kusto) screen, fill out the form with the following information.
 
-** Step 5:** If you don't already have a connection to the help cluster, sign in. Sign in with an organizational account, then select **Connect**.
+**Step 5:** If you don't already have a connection to the help cluster, sign in. Sign in with an organizational account, then select **Connect**.
 
-** Step 6:** On the Navigator screen, select your database then **Transform Data**.
+**Step 6:** On the Navigator screen, select your database then **Transform Data**.
 
-** Step 7:** The table opens in Power Query Editor, where you can edit rows and columns before importing the data.
+**Step 7:** The table opens in Power Query Editor, where you can edit rows and columns before importing the data.
 
 # Summary
 **Congratulations!** You are now acquainted with using Axure Data Explorer in Power BI and can proceed to learn more in this area. Do leave your feedback in the comments below. Our next blog will on how to [create a Power BI report](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog8.md). Stay tuned!
