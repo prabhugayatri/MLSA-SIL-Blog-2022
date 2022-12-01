@@ -87,9 +87,9 @@ An account on [Azure](https://azure.microsoft.com/en-in/). You can get a free su
 **Congratulations!** You are now acquainted with teh basics of Axure Data Explorer and KQL and can proceed to learn more in this area. Do leave your feedback in the comments below. Our next blog will on how to [visualize data with Azure Data Explorer dashboards](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog5.md). Stay tuned!
 
 ## Next Steps
-[Summary of Azure Data Explorer](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-data-explorer/)
-
-[Training in KQL](https://learn.microsoft.com/en-us/training/modules/write-first-query-kusto-query-language/)
+You can explore more in this area, if interested.
+* [Summary of Azure Data Explorer](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-data-explorer/)
+* [Training in KQL](https://learn.microsoft.com/en-us/training/modules/write-first-query-kusto-query-language/)
 
 ![Thank You](https://cdn.pixabay.com/photo/2014/07/15/19/55/thank-you-394180_1280.png)
 
