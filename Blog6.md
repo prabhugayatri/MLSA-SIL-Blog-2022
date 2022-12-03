@@ -35,5 +35,7 @@ The basic building blocks of Power BI are:
 
 ## What is Visualizations?
 Visualization is a visual representation of data in the form of graphs, charts, color-coded maps. The goal of  is to pvisualization is to resent data in a way that provides context and insights, both of which would probably be difficult to discern from a raw table of numbers or text.
+
 <img width="400" alt="pbi-bblocks_01" src="https://user-images.githubusercontent.com/61981517/205449696-cf976036-d068-482a-a460-c756cae496e8.png">
+
 *Image credits: https://learn.microsoft.com/en-in/training/modules/get-started-with-power-bi/media/pbi-bblocks_01.png*
