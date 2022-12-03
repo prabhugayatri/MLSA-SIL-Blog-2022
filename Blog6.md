@@ -33,9 +33,23 @@ The basic building blocks of Power BI are:
 * Dashboards
 * Tiles
 
-## What is Visualizations?
+## What is Visualization?
 Visualization is a visual representation of data in the form of graphs, charts, color-coded maps. The goal of  is to pvisualization is to resent data in a way that provides context and insights, both of which would probably be difficult to discern from a raw table of numbers or text.
 
-<img width="400" alt="pbi-bblocks_01" src="https://user-images.githubusercontent.com/61981517/205449696-cf976036-d068-482a-a460-c756cae496e8.png">
+<img width="600" alt="pbi-bblocks_01" src="https://user-images.githubusercontent.com/61981517/205449696-cf976036-d068-482a-a460-c756cae496e8.png">
 
 *Image credits: https://learn.microsoft.com/en-in/training/modules/get-started-with-power-bi/media/pbi-bblocks_01.png*
+
+## What is Dataset?
+A dataset is a collection of data that PowerBI uses to create visualizations.
+
+![pbi-bblocks_02](https://user-images.githubusercontent.com/61981517/205453324-92f0ab1e-eea3-42e3-8f4e-18ef881cce3f.png)
+
+*Image credits: https://learn.microsoft.com/en-in/training/modules/get-started-with-power-bi/media/pbi-bblocks_02.png*
+
+## What is Report in Power BI?
+Report is a collection of visualizations that appear together on one or more pages. Reports lets us to create many visualizations, on multiple pages if necessary, and let us arrange those visualizations in whatever way best tells our story.
+
+<img width="500" alt="pbi-bblocks_03" src="https://user-images.githubusercontent.com/61981517/205453757-289aa2a5-c2ca-43bb-8998-9019114508e2.png">
+
+*Image credits: https://learn.microsoft.com/en-in/training/modules/get-started-with-power-bi/media/pbi-bblocks_03.png*
