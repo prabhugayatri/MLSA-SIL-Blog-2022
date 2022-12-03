@@ -53,3 +53,17 @@ Report is a collection of visualizations that appear together on one or more pag
 <img width="500" alt="pbi-bblocks_03" src="https://user-images.githubusercontent.com/61981517/205453757-289aa2a5-c2ca-43bb-8998-9019114508e2.png">
 
 *Image credits: https://learn.microsoft.com/en-in/training/modules/get-started-with-power-bi/media/pbi-bblocks_03.png*
+
+## What are Dashboards?
+A dashboard is a collection of visuals that one can share with others. When one is ready to share a report, or a collection of visualizations, one can create a dashboard. A dashboard must fit on a single page, also called a canvas.
+
+![power-bi-dashboard2](https://user-images.githubusercontent.com/61981517/205454280-2c9712da-07d2-4cc2-8af6-741ae2d3a467.png)
+
+*Image credits: https://learn.microsoft.com/en-us/power-bi/create-reports/media/service-dashboards/power-bi-dashboard2.png*
+
+## What is tiles?
+ile is a single visualization on a dashboard. It's the rectangular box that holds an individual visual.
+
+![pbi-bblocks_04](https://user-images.githubusercontent.com/61981517/205454482-4e14e030-23f3-4efa-b819-4851faaadbf3.png)
+
+*Image credits: https://learn.microsoft.com/en-in/training/modules/get-started-with-power-bi/media/pbi-bblocks_04.png*
