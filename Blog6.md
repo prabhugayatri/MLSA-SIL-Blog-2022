@@ -71,8 +71,8 @@ ile is a single visualization on a dashboard. It's the rectangular box that hold
 # Summary
 **Congratulations!** You are now acquainted with the basics of Power BI and can proceed to learn more in this area. Do leave your feedback in the comments below. Our next blog will on how to [Using the Azure Data Explorer connector in Power BI](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog7.md). Stay tuned!
 
-![Thank You](https://cdn.pixabay.com/photo/2014/07/15/19/55/thank-you-394180_1280.png)
+![thank_you](https://user-images.githubusercontent.com/61981517/204829918-8d0c6064-f849-45d3-8a86-fc8a968defc8.png)
 
 *Image credits: https://cdn.pixabay.com/photo/2014/07/15/19/55/thank-you-394180_1280.png*
 
-## [Using the Azure Data Explorer connector in Power BI](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog7.md)
+## [Blog 7: Using the Azure Data Explorer connector in Power BI](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog7.md)
