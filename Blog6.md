@@ -62,7 +62,7 @@ A dashboard is a collection of visuals that one can share with others. When one 
 *Image credits: https://learn.microsoft.com/en-us/power-bi/create-reports/media/service-dashboards/power-bi-dashboard2.png*
 
 ## What is tiles?
-ile is a single visualization on a dashboard. It's the rectangular box that holds an individual visual.
+Tile is a single visualization on a dashboard. It's the rectangular box that holds an individual visual. Tile can also referred to the snapshot of the data pinned to the dashboard. One can create tiles from dashboard, report, excel etc.
 
 ![pbi-bblocks_04](https://user-images.githubusercontent.com/61981517/205454482-4e14e030-23f3-4efa-b819-4851faaadbf3.png)
 
