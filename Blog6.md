@@ -41,7 +41,7 @@ Visualization is a visual representation of data in the form of graphs, charts, 
 *Image credits: https://learn.microsoft.com/en-in/training/modules/get-started-with-power-bi/media/pbi-bblocks_01.png*
 
 ## What is Dataset?
-A dataset is a collection of data that PowerBI uses to create visualizations.
+A dataset is a collection of data that PowerBI uses to create visualizations. Power BI lets us connect to and import all sorts of datasets and bring all of it together in one place. Datasets are associated with workspaces and a single dataset can be part of many workspaces.
 
 ![pbi-bblocks_02](https://user-images.githubusercontent.com/61981517/205453324-92f0ab1e-eea3-42e3-8f4e-18ef881cce3f.png)
 
