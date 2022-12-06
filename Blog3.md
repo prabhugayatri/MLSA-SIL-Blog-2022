@@ -48,13 +48,10 @@ With this quick introduction, let's move on to get a hands on experience on the 
 None.
 
 ## What are the basic KQL queries?
-Kusto
 Considering our sample database CarbonEmissions.
-
+|--------------|
 | CarbonEmissions | Count  | 
-
 This counts the number of entries
-
 | Count |
 | 267 |
 
