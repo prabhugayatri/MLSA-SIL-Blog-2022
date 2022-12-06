@@ -50,8 +50,11 @@ None.
 ## What are the basic KQL queries?
 Considering our sample database CarbonEmissions.
 |--------------|
-| CarbonEmissions | Count  | 
-| Count | 267 |
+| CarbonEmissions |
+| Count  | 
+
+| Count |
+| 267 |
 This counts the number of entries
 
 ## Summary
