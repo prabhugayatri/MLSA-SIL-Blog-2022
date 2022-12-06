@@ -48,7 +48,7 @@ With this quick introduction, let's move on to get a hands on experience on the 
 None.
 
 ## What are the basic KQL queries?
-Hop on to [Jupyter notebooks for a quick KQL tutorial]()
+Hop on to [Jupyter notebooks for a quick KQL tutorial](https://jupyter.org/try-jupyter/retro/notebooks/?path=KQLBasics.ipynb)
 
 ## Summary
 **Congratulations!** You are now acquainted with teh basics of Axure Data Explorer and KQL and can proceed to learn more in this area. Do leave your feedback in the comments below. Our next blog will on how to [create an Azure Data Explorer cluster and database](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog4.md). Stay tuned!
