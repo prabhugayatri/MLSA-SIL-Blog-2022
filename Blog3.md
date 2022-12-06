@@ -50,14 +50,13 @@ None.
 ## What are the basic KQL queries?
 Kusto
 Considering our sample database CarbonEmissions.
-| ------------- | 
+
 | CarbonEmissions | Count  | 
-|----------------|
+
 This counts the number of entries
-|----------------|
+
 | Count |
 | 267 |
-|---------------|
 
 ## Summary
 **Congratulations!** You are now acquainted with teh basics of Axure Data Explorer and KQL and can proceed to learn more in this area. Do leave your feedback in the comments below. Our next blog will on how to [create an Azure Data Explorer cluster and database](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog4.md). Stay tuned!
