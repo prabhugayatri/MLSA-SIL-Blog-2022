@@ -45,15 +45,16 @@ Microsoft Azure, often referred to as Azure, is a cloud computing platform opera
 With this quick introduction, let's move on to get a brief on the basics KQL queries!
 
 ## What are the absic KQL queries?
-count- Counts the rows in the table.
-project- Pick out only the columns you want.
-take- Shows rows from the table in no particular order (limit is an alias for take and has the same effect).
-desc- orders results in descending order.
-asc- orders results in ascending order.
-by- Some operators have parameters that are introduced by keywords like by.
-Scalar expressions can include all the usual operators.
-summarize- Produces a table that aggregates the content of the input table.
-render- You can project two columns and use them as the x-axis and the y-axis of a chart (column chart, time chart etc.).
+
+* count- Counts the rows in the table.
+* project- Pick out only the columns you want.
+* take- Shows rows from the table in no particular order (limit is an alias for take and has the same effect).
+* desc- orders results in descending order. 
+* asc- orders results in ascending order. 
+* by- Some operators have parameters that are introduced by keywords like by. 
+* Scalar expressions can include all the usual operators. 
+* summarize- Produces a table that aggregates the content of the input table. 
+* render- You can project two columns and use them as the x-axis and the y-axis of a chart (column chart, time chart etc.).
 
 
 ## Summary
