@@ -42,7 +42,19 @@ Microsoft Azure, often referred to as Azure, is a cloud computing platform opera
 * The Azure Portal allows an interface to manage clusters and execute queries, but KQL queries can also be integrated into reporting tools, such as Power BI and Tableau.
 * KQL is a read-only query language, so there is no risk of data corruption through injection attacks. ADX is capable of quickly returning results from very large data sets.
 
-With this quick introduction, let's move on to get a hands on experience on the basics KQL queries!
+With this quick introduction, let's move on to get a brief on the basics KQL queries!
+
+## What are the absic KQL queries?
+count- Counts the rows in the table.
+project- Pick out only the columns you want.
+take- Shows rows from the table in no particular order (limit is an alias for take and has the same effect).
+desc- orders results in descending order.
+asc- orders results in ascending order.
+by- Some operators have parameters that are introduced by keywords like by.
+Scalar expressions can include all the usual operators.
+summarize- Produces a table that aggregates the content of the input table.
+render- You can project two columns and use them as the x-axis and the y-axis of a chart (column chart, time chart etc.).
+
 
 ## Summary
 **Congratulations!** You are now acquainted with teh basics of Axure Data Explorer and KQL and can proceed to learn more in this area. Do leave your feedback in the comments below. Our next blog will on how to [create an Azure Data Explorer cluster and database](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog4.md). Stay tuned!
