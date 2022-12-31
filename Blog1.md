@@ -145,5 +145,15 @@ Then click on "Next"
 **Step 6:** At Last, It will show "Your deployment is complete"
 
 
+## Summary
+**Congratulations!** You are now acquainted with Azure cloud stroage and can proceed to learn more in this area. Do leave your feedback in the comments below. Our next blog will on how to [store data in Azure cloud](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog2.md). Stay tuned!
 
+## Next Steps
+You can explore more in this area, if interested.
+* [Azure cloud](https://www.youtube.com/watch?v=D_AJk2lAepw&feature=youtu.be](https://azure.microsoft.com/en-in/)
 
+![Thank You Image credits: Pixaby](https://cdn.pixabay.com/photo/2014/07/15/19/55/thank-you-394180_1280.png)
+
+*Image credits: https://cdn.pixabay.com/photo/2014/07/15/19/55/thank-you-394180_1280.png*
+
+## [Blog 2: Storage of data in Azure cloud](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog2.md)
