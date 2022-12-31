@@ -58,7 +58,7 @@ With this quick introduction, let's move on to get a brief on the basics KQL que
 
 
 ## Summary
-**Congratulations!** You are now acquainted with the basics of Axure Data Explorer and KQL and can proceed to learn more in this area. Do leave your feedback in the comments below. Our next blog will on how to [create an Azure Data Explorer cluster and database](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog4.md). Stay tuned!
+**Congratulations!** You are now acquainted with the basics of Azure Data Explorer and KQL and can proceed to learn more in this area. Do leave your feedback in the comments below. Our next blog will on how to [create an Azure Data Explorer cluster and database](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog4.md). Stay tuned!
 
 ## Next Steps
 You can explore more in this area, if interested.
