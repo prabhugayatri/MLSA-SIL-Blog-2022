@@ -14,9 +14,9 @@ In this tutorial, you learn how to:
 Connect to Azure Data Explorer in Power BI Desktop
 
 ## Prerequisites
-If you're not signed up for Power BI Pro, [sign up for a free trial] ( https://app.powerbi.com/signupredirect?pbi_source=web) before you begin.
+If you're not signed up for Power BI Pro, [sign up for a free trial] (https://app.powerbi.com/signupredirect?pbi_source=web) before you begin.
 A Microsoft account or an Azure Active Directory user identity. An Azure subscription isn't required.
-[Power BI Desktop ]( https://powerbi.microsoft.com/get-started/ )
+[Power BI Desktop ](https://powerbi.microsoft.com/get-started/)
 
 ## Connect to Azure Data Explorer
 
