@@ -84,7 +84,7 @@ An account on [Azure](https://azure.microsoft.com/en-in/). You can get a free su
 **Step 5:** After you are done using the cluster, select Resource groups on the far left in the Azure portal, and then select the resource group that contains your Data Explorer cluster. Select Delete resource group to delete the entire resource group. If using an existing resource group, you can choose to only delete the Data Explorer cluster.
 
 # Summary
-**Congratulations!** You are now acquainted with teh basics of Axure Data Explorer and KQL and can proceed to learn more in this area. Do leave your feedback in the comments below. Our next blog will on how to [visualize data with Azure Data Explorer dashboards](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog5.md). Stay tuned!
+**Congratulations!** You are now acquainted with the basics of Axure Data Explorer and KQL and can proceed to learn more in this area. Do leave your feedback in the comments below. Our next blog will on how to [visualize data with Azure Data Explorer dashboards](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog5.md). Stay tuned!
 
 ## Next Steps
 You can explore more in this area, if interested.
