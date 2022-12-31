@@ -63,3 +63,16 @@ Azure file storage mainly can be used if we want to have a shared drive between 
 ![Screenshot (49)](https://user-images.githubusercontent.com/82721772/204982622-0859bef7-43cc-42df-b9d8-2d6ecced6248.png)
 
 You have successfully uploaded files in container of your storage account.
+
+## Summary
+**Congratulations!** You are now acquainted with stroage of data in Azure cloud and can proceed to learn more in this area. Do leave your feedback in the comments below. Our next blog will [introduce you to Azure Data Explorer and Kusto Query Language](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog3.md). Stay tuned!
+
+## Next Steps
+You can explore more in this area, if interested.
+* [Storing data in Azure cloud](https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction)
+
+![Thank You Image credits: Pixaby](https://cdn.pixabay.com/photo/2014/07/15/19/55/thank-you-394180_1280.png)
+
+*Image credits: https://cdn.pixabay.com/photo/2014/07/15/19/55/thank-you-394180_1280.png*
+
+## [Blog 3: introduction to Azure Data Explorer and Kusto Query Language](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog3.md)
