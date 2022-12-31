@@ -44,7 +44,7 @@ Now you connect to Azure Data Explorer in Power BI Desktop.
 
 The table opens in Power Query Editor, where you can edit rows and columns before importing the data.
 
-# Summary
+## Summary
 **Congratulations!** You are now acquainted with using Axure Data Explorer in Power BI and can proceed to learn more in this area. Do leave your feedback in the comments below. Our next blog will on how to [create a Power BI report](https://github.com/prabhugayatri/MLSA-SIL-Blog-2022/blob/main/Blog8.md). Stay tuned!
 
 ## Next Steps
