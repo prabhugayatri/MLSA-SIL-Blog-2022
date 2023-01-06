@@ -69,7 +69,7 @@ You have successfully uploaded files in container of your storage account.
 
 ## Next Steps
 You can explore more in this area, if interested.
-* [Storing data in Azure cloud](https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction)
+* [More about storing data in Azure cloud](https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction)
 
 ![Thank You Image credits: Pixaby](https://cdn.pixabay.com/photo/2014/07/15/19/55/thank-you-394180_1280.png)
 
